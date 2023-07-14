@@ -20,6 +20,7 @@
     index.ts
 
 Настраиваем TS...
+
     npm install -g typescript
     npm i -D typescript @types/express @types/node
     npx tsc --init
@@ -27,7 +28,9 @@
     npm install //если что-то не получится
 
     Для компиляции TS файлов:
+    
         tsc index.ts --outDir dist/ //вместо dist/ путь дириктории
+        
     получится:
 
     controllers/
@@ -39,7 +42,6 @@
     index.ts
 
 Настраиваем ORM Prisma...
-
 в schema.prisma
 
     generator client {
@@ -56,7 +58,6 @@
         title String @db.VarChar(255)
         image String @db.VarChar(255)
     } // пример таблицы БД
-
 
 Установка зависимостей
 
