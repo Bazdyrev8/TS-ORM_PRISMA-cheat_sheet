@@ -83,6 +83,7 @@
     }
 
 Также можно настроить команду tsc index.ts --outDir dist/ и другие
+
     "scripts": {
         "dev": "concurrently \"npx tsc --watch\" \"nodemon -q dist/index.js\""
         "build": "npx tsc", //с помощью команды npm run build запустится компиляция файлов .ts
