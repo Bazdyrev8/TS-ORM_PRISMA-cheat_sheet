@@ -93,5 +93,5 @@
     
 ПОЛЕЗНО
 
-    https://minhaskamal.github.io/DownGit/#/home?url=https:%2F%2Fgithub.com%2Floginovw8%2Faltair-web-advanced%2Ftree%2Fmain%2F06-mvc
+    https://minhaskamal.github.io/DownGit/
     
