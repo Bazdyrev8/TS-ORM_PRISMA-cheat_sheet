@@ -90,3 +90,8 @@
         "build": "npx tsc", //с помощью команды npm run build запустится компиляция файлов .ts
         "start": "node dist/index.js", //с помощью команды npm run start запустится файл index.js
     }
+    
+ПОЛЕЗНО
+
+    https://minhaskamal.github.io/DownGit/#/home?url=https:%2F%2Fgithub.com%2Floginovw8%2Faltair-web-advanced%2Ftree%2Fmain%2F06-mvc
+    
